@@ -41,5 +41,5 @@ Clonar com um apelido para a pasta, se o apelido tiver espaço em branco usar as
 
 # ver alterações no repositórios
 ``` git 
-git status 
+git status
 ```
